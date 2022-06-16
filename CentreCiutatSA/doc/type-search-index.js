@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"clases","l":"Administrador"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"clases","l":"Cliente"},{"p":"clases","l":"Persona"},{"p":"pruebas","l":"Pruebas"},{"p":"pruebas","l":"PruebasTest"},{"p":"principal","l":"UsuarioCliente"}];updateSearchResults();
